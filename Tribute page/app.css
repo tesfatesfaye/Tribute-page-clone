@@ -1,0 +1,22 @@
+
+body{
+    background-color: #DDDDDD;
+
+}
+main{
+margin-top: 1rem  ;
+margin-left: 1rem; ;
+background-color: #DDDDDD;
+margin-bottom: 1rem;
+}
+.ime{
+
+    background-color: #fff9ed;
+    
+}
+
+ul li{
+
+    list-style-position:inside;
+    line-height: 2rem;
+}
